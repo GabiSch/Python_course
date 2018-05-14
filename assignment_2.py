@@ -67,7 +67,7 @@ solution_student.append((1.3,7.8,'glo'))
 # a.replace('a', 'ana')
 # a
 
-solution_student.append(anananananas)
+solution_student.append('ananas')
 
 # Assignment 10:
 # a = ['x', 9]
@@ -82,7 +82,7 @@ solution_student.append((['x',9,100],'glob'))
 # a.pop(1)
 # 1 in a
 
-solution_student.append('Finn')
+solution_student.append(False)
 
 # Assignment 12:
 # x = 0
@@ -90,7 +90,7 @@ solution_student.append('Finn')
 #     x = x + 1
 # x
 
-solution_student.append(2)
+solution_student.append(1)
 
 # Assignment 13:
 # a = [1, 2, 3]
@@ -100,7 +100,7 @@ solution_student.append(2)
 # else:
 #     print('OH NO')
 
-solution_student.append(OH NO)
+solution_student.append('OH NO')
 
 # Assignment 14:
 # a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -171,7 +171,7 @@ solution_student.append({'Hans','Julia'})
 # b.append(80)
 # a
 
-solution_student.append([1,2,3,4])
+solution_student.append([1,2,3,4,80])
 
 
 if __name__ == '__main__':
